@@ -1,0 +1,17 @@
+.inactive {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 700;
+    color: #1a2d5e;
+    font-size: 22px;
+}
+
+.active {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 700;
+    font-size: 24px;
+    color: #3548ef;
+}
