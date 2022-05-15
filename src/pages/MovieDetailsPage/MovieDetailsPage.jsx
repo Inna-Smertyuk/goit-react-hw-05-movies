@@ -37,7 +37,7 @@ export default function MovieDetailsPage() {
     navigate(
       location.state
         ? `${location.state.from.pathname}${location.state.from.search}`
-        : "/movies"
+        : "/"
     );
   };
 
